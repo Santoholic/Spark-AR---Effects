@@ -11,6 +11,6 @@ Spark AR
 
 - I added the ARPROJ format of the file to access the file in Spark AR
 
--I addded the texture of the file to see the preview
+- I addded the texture of the file to see the preview
 
 ---------- *** ----------
